@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">QQApp</string>
+    <string name="cat">帽子</string>
+    <string name="dress">衣服</string>
+    <string name="bag">提包</string>
+    <string name="shoses">鞋子</string>
+    <string name="name">时尚潮流</string>
+    <string name="home">化妆潮人</string>
+    <string name="kouhong">口红</string>
+    <string name="qidian">气垫</string>
+    <string name="shuazi">刷子</string>
+    <string name="zhijiayou">指甲油</string>
+</resources>

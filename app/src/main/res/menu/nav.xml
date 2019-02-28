@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:title="@string/home"
+        android:icon="@mipmap/saihong"
+        android:id="@+id/saihong"
+        app:showAsAction="ifRoom"/>
+
+    <item android:title="@string/zhijiayou"
+        android:icon="@mipmap/zhijiayou"
+        app:showAsAction="ifRoom"
+        android:id="@+id/zhijiayou"/>
+
+    <item android:title="@string/qidian"
+        android:icon="@mipmap/qidian"
+        android:id="@+id/qidian"
+        app:showAsAction="ifRoom"/>
+
+    <item android:title="@string/kouhong"
+        android:icon="@mipmap/kouhong"
+        android:id="@+id/kouhong"
+        app:showAsAction="ifRoom"/>
+
+    <item android:title="@string/shuazi"
+        android:icon="@mipmap/shuazi"
+        android:id="@+id/shuazi"
+        app:showAsAction="ifRoom"/>
+
+
+</menu>
